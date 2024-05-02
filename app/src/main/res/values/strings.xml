@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L3Ex1ProjetoCombustivel</string>
+    <string name="vlrGasolina">Valor Gasolina</string>
+    <string name="vlrEtanol">Valor Etanol</string>
+    <string name="comparar">Comparar</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="etanol">Etanol</string>
+</resources>
